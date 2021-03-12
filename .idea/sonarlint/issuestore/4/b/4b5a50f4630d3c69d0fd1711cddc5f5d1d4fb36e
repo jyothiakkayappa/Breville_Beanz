@@ -1,0 +1,8 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¦€ªÁıÿÿÿÿ
+`
+java:S1155">Use isEmpty() to check whether the collection is empty or not.(èãœÿÿÿÿÿ8¸øøØ€/
+s
+java:S2159"VRemove this call to "equals"; comparisons between unrelated types always return false.(•„œ8ÓªëŞ€/
+h
+java:S1192"FDefine a constant instead of duplicating this literal "xpath" 5 times.(èãœÿÿÿÿÿ8õ¤ÖØ€/
